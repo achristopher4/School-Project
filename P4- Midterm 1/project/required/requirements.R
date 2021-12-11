@@ -1,0 +1,6 @@
+install.packages("data.table")
+install.packages("glmnet")
+install.packages("caret")
+install.packages("plyr")
+install.packages("plotmo")
+install.packages("Metrics")

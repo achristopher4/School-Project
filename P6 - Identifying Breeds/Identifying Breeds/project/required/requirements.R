@@ -1,0 +1,5 @@
+install.packages("data.table")
+install.packages("ClusterR")
+install.packages("caret")
+install.packages("ggplot2")
+install.packages("Rtsne")
